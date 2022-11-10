@@ -1,2 +1,27 @@
 
-[{"title":"Remera Blanca","price":75.66,"id":1},{"title":"Remera Negra","price":100,"id":3}]
+[
+    {
+        "title": "Remera Negra",
+        "price": 65,
+        "thumbnail": "someUrl.com",
+        "id": 1
+    },
+    {
+        "title": "Remera Blanca",
+        "price": 45.50,
+        "thumbnail": "someUrl.com",
+        "id": 2
+    },
+    {
+        "title": "Pantalon Negro",
+        "price": 100,
+        "thumbnail": "someUrl.com",
+        "id": 3
+    },
+    {
+        "title": "Pantalon Blanco",
+        "price": 180,
+        "thumbnail": "someUrl.com",
+        "id": 4
+    }
+]
